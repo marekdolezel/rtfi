@@ -1,0 +1,27 @@
+nios2-terminal: connected to hardware target using JTAG UART on cable
+nios2-terminal: "USB-Blaster [1-2.1]", device 1, instance 0
+nios2-terminal: (Use the IDE stop button or Ctrl-C to terminate)
+
+Stuck atvar 100
+Task2: while(1) {...} 
+Stuck atvar 101
+Task2: while(1) {...} 
+Stuck atvar 102
+Task2: while(1) {...} 
+Stuck atvar 103
+Task2: while(1) {...} 
+Stuck atvar 104
+Task2: while(1) {...} 
+Stuck atvar 105
+Task2: while(1) {...} 
+Stuck atvar 106
+Task2: while(1) {...} 
+Stuck atvar 107
+Task2: while(1) {...} 
+Stuck atvar 108
+Task2: while(1) {...} 
+Stuck atvar 109
+Task2: while(1) {...} 
+
+
+nios2-terminal: exiting due to ^C on host

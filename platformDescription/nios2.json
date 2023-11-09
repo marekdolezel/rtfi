@@ -1,0 +1,50 @@
+{
+    "board": {
+        "type": "DE0_NANO",
+        "cpu": {
+            "type": "NIOS2",
+            "endianness": "little_endian",
+            "registers": 
+            [
+                {"name": "r0", "size": 4 },
+                {"name": "r1", "size": 4 },
+                {"name": "r2", "size": 4 },
+                {"name": "r3", "size": 4 },
+                {"name": "r4", "size": 4 },
+                {"name": "r5", "size": 4 },
+                {"name": "r6", "size": 4 },
+                {"name": "r7", "size": 4 },
+                {"name": "r8", "size": 4 },
+                {"name": "r9", "size": 4 },
+                {"name": "r10", "size": 4 },
+                {"name": "r11", "size": 4 },
+                {"name": "r12", "size": 4 },
+                {"name": "r13", "size": 4 },
+                {"name": "r14", "size": 4 },
+                {"name": "r15", "size": 4 },
+                {"name": "r16", "size": 4 },
+                {"name": "r17", "size": 4 },
+                {"name": "r18", "size": 4 },
+                {"name": "r19", "size": 4 },
+                {"name": "r20", "size": 4 },
+                {"name": "r21", "size": 4 },
+                {"name": "r22", "size": 4 },
+                {"name": "r23", "size": 4 },
+                {"name": "r24", "size": 4 },
+                {"name": "r25", "size": 4 },
+                {"name": "r26", "size": 4 },
+                {"name": "r27", "size": 4 },
+                {"name": "r28", "size": 4 },
+                {"name": "r29", "size": 4 },
+                {"name": "r30", "size": 4 },
+                {"name": "r31", "size": 4 }
+            ]
+        },
+
+        "memory": 
+        [
+            { "sizeBytes": "25MB", "lowestAddr": 0, "highestAddr": 2222 } 
+        ]       
+
+    }
+}

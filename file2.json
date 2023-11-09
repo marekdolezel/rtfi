@@ -1,0 +1,26 @@
+{
+    "register": {
+        "id": {
+            "probDistribution": {
+                "name": "Uniform",
+                "param1": 0,
+                "param2": 1
+            }
+        },
+
+        "actions": "FLIP, SET_ZERO, SET_ONE"
+    },
+
+    "memory" : {
+        "id": 0,
+        "address": {
+            "c_obj": {
+                "name" : "struct whatever",
+                "file" : "file",
+                "line" : "line"
+            }
+        }
+    }
+
+
+}
